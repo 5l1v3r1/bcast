@@ -1,0 +1,8 @@
+{
+    "name": "bcast",
+    "description": "Broadcast bogus WiFi hotspots",
+    "version": "0.0.1",
+    "dependencies": {
+        "socketwatcher": "0.2.x"
+    }
+}
